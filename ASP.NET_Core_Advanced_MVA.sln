@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET_Core_Advanced_MVA", "ASP.NET_Core_Advanced_MVA\ASP.NET_Core_Advanced_MVA.csproj", "{4EA932AF-B3AF-4AC2-837D-C72AA47177A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP.NET_Core_Advanced_MVA", "ASP.NET_Core_Advanced_MVA\ASP.NET_Core_Advanced_MVA.csproj", "{4EA932AF-B3AF-4AC2-837D-C72AA47177A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Configure", "Configure\Configure.csproj", "{D0542ED0-D6EB-49F8-84D4-32A8B6F77290}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Configure", "Configure\Configure.csproj", "{D0542ED0-D6EB-49F8-84D4-32A8B6F77290}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViewCompFinal", "ViewCompFinal\ViewCompFinal.csproj", "{5ED7FDC8-7985-4ACA-AC7C-9AE84E37FB05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D0542ED0-D6EB-49F8-84D4-32A8B6F77290}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0542ED0-D6EB-49F8-84D4-32A8B6F77290}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0542ED0-D6EB-49F8-84D4-32A8B6F77290}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED7FDC8-7985-4ACA-AC7C-9AE84E37FB05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED7FDC8-7985-4ACA-AC7C-9AE84E37FB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED7FDC8-7985-4ACA-AC7C-9AE84E37FB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED7FDC8-7985-4ACA-AC7C-9AE84E37FB05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
